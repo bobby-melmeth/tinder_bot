@@ -1,2 +1,2 @@
-email = 'robmelmeth_@hotmail.com'
-password = 'Moldbug#1'
+email = 'YOURFACEBOOKEMAIL@EMAIL.COM'
+password = 'YOURFACEBOOKPASSWORD1234'
